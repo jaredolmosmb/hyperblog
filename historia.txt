@@ -1,2 +1,3 @@
 Ejemplo para curso de git  y github
 de Platzi del 22 de Noviembre
+-cambio para probar git rm
