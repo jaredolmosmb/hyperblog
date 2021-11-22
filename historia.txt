@@ -1,2 +1,2 @@
 Ejemplo para curso de git  y github
-de Platzi del 23 de Octubre
+de Platzi del 23 de Octubre del 2021
